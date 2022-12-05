@@ -1,11 +1,22 @@
 package denemeler;
 
-public class Deneme1 {
-    public static void main(String[] args) {
-        String str = "abc 123 $#^";
 
-        System.out.println(str.replaceAll("[ $#^\\s]", ""));
+import java.util.Scanner;
+
+public class Deneme1 {
+
+    public static void main(String[] args) {
+
 
 
     }
+
+    public static int middle (int i1, int i2, int i3){
+
+
+
+    }
+
+
+
 }
