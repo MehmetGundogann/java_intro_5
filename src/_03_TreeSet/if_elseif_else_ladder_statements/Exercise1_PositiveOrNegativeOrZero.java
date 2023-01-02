@@ -1,4 +1,4 @@
-package conditional_statements.if_elseif_else_ladder_statements;
+package _03_TreeSet.if_elseif_else_ladder_statements;
 
 import java.util.Scanner;
 

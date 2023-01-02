@@ -1,4 +1,4 @@
-package conditional_statements.nested_if_else_statements;
+package _03_TreeSet.nested_if_else_statements;
 
 public class Exercise1_GoldNumber {
     public static void main(String[] args) {

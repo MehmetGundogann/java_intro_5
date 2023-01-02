@@ -1,4 +1,4 @@
-package conditional_statements.if_else_statements;
+package _03_TreeSet.if_else_statements;
 
 import java.util.Scanner;
 

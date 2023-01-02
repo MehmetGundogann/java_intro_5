@@ -1,4 +1,4 @@
-package conditional_statements.switch_statements;
+package _03_TreeSet.switch_statements;
 
 public class SwitchWithInteger {
     public static void main(String[] args) {

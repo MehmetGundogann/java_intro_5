@@ -1,4 +1,4 @@
-package conditional_statements.ternary_operator;
+package _03_TreeSet.ternary_operator;
 
 import java.util.Random;
 

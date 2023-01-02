@@ -1,4 +1,4 @@
-package conditional_statements.ternary_operator;
+package _03_TreeSet.ternary_operator;
 
 public class Exercise1_FindMax {
     public static void main(String[] args) {
