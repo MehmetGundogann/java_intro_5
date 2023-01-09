@@ -18,8 +18,8 @@ public class S {
             n2=n3;
             n3=n1+n3;
 
-            for (int j = 0; j < ; j++) {
-                
+            for (int j = 0; j < 4; j++) {
+
             }
 
         } return n3;
